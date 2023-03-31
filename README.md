@@ -29,6 +29,6 @@ This section is about nutrition
 #### Nutrition Guides
 ---
 ### Supplements
-This section is aboutt supplements
+This section is about supplements
 #### Nootropics
 #### Supplement Guides
