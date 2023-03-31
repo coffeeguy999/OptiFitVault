@@ -12,6 +12,7 @@ A list of resources and strategies for optimizing health, fitness, nutrition and
 * [Nutrition](#nutrition)
   * [Nutrition Guides](#nutrition-guides)
 * [Supplements](#supplements)
+  * [Vitamins](#vitamins)
   * [Nootropics](#nootropics)
   * [Supplement Guides](#supplement-guides)
 ---
@@ -30,5 +31,6 @@ This section is about nutrition
 ---
 ### Supplements
 This section is about supplements
+#### Vitamins
 #### Nootropics
 #### Supplement Guides
