@@ -33,4 +33,6 @@ This section is about nutrition
 This section is about supplements
 #### Vitamins
 #### Nootropics
+* Daily Supplements
+  * MycoBotanicals Brain Capsules
 #### Supplement Guides
