@@ -22,6 +22,7 @@ This section is about overall health
 #### Lifestyle
 * Soap
   * Dr. Bronner's Pure-Castile Soap
+  * Nubian Heritage Bar Soap
 * Deodorant
   * Nubian Heritage 24 Hour Deodorant
 #### Health Guides
@@ -42,5 +43,5 @@ This section is about supplements
   * MycoBotanicals Brain Capsules
   * Chemix Nootropic 
 #### Recovery
-* Chemix Cortiblc
+* Chemix Cortibloc
 #### Supplement Guides
