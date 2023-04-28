@@ -39,9 +39,8 @@ This section is about nutrition
 This section is about supplements
 #### Vitamins
 #### Nootropics
-* Daily Supplements
-  * MycoBotanicals Brain Capsules
-  * Chemix Nootropic 
+* MycoBotanicals Brain Capsules
+* Chemix Nootropic 
 #### Recovery
 * Chemix Cortibloc
 #### Supplement Guides
