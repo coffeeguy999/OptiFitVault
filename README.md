@@ -14,13 +14,16 @@ A list of resources and strategies for optimizing health, fitness, nutrition and
 * [Supplements](#supplements)
   * [Vitamins](#vitamins)
   * [Nootropics](#nootropics)
+  * [Recovery](#recovery)
   * [Supplement Guides](#supplement-guides)
 ---
 ### Health
 This section is about overall health
 #### Lifestyle
- * Soap
-   * Dr. Bronner's Pure-Castile Soap
+* Soap
+  * Dr. Bronner's Pure-Castile Soap
+* Deodorant
+  * Nubian Heritage 24 Hour Deodorant
 #### Health Guides
 ---
 ### Fitness
