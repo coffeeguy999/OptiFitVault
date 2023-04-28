@@ -19,6 +19,8 @@ A list of resources and strategies for optimizing health, fitness, nutrition and
 ### Health
 This section is about overall health
 #### Lifestyle
+ * Soap
+   * Dr. Bronner's Pure-Castile Soap
 #### Health Guides
 ---
 ### Fitness
@@ -35,5 +37,7 @@ This section is about supplements
 #### Nootropics
 * Daily Supplements
   * MycoBotanicals Brain Capsules
-  * Chemix Nootropic By The Guerilla Chemist
+  * Chemix Nootropic 
+#### Recovery
+* Chemix Cortiblc
 #### Supplement Guides
