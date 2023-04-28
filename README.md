@@ -35,4 +35,5 @@ This section is about supplements
 #### Nootropics
 * Daily Supplements
   * MycoBotanicals Brain Capsules
+  * Chemix Nootropic By The Guerilla Chemist
 #### Supplement Guides
